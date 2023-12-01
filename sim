@@ -1,0 +1,118 @@
+import 'package:intl/intl.dart';
+void main() {
+  
+  var cestabasica = ('arozz' + ' carne' + ' oleo' +  'ABACZX');
+    print(cestabasica);
+  
+  
+  /*
+  var idade = 16;
+  if (idade <= 18){
+    print('nao pode entrar');             
+  }else{
+    print(' pode entrar');
+  }*/
+   
+  
+  
+  
+  /*
+  var media = 60;
+    var faltas = 5;
+    if ( media >= 60 && faltas <5) {
+      print('Aprovrado');
+    }else {
+      print ('reprovado');
+    } */
+      
+  
+  
+  
+  
+  /*
+  int idade = 165;
+    if (idade >= 165) {
+      print(' ivonete');
+    }
+  
+ else{
+   print('vivo por enquanto');
+ }*/
+   
+  
+  
+  
+  
+  
+  
+  /*
+  //Datatime declaração e formação de datas
+  DateTime agora = DateTime.now();
+  DateFormat formato = DateFormat('dd-MM-yyyy');
+  String dataformatada = formato.format(agora);
+  print('Data: $dataformatada');*/
+  
+  
+  
+  
+  /*
+  dynamic something = ;
+  dynamic = 
+  print('dynamic aceita todos os tipos> $something');*/
+  
+  /*
+  //variaveis de tipo bool (verdaide ou mentirua)
+  bool aprovado = true; 
+  bool dimanolol = false;
+  
+  print('o aluno foi aprovado $aprovado');
+  print('o incel esta dima no lol? $dimanolol');*/
+
+  
+    /*
+  //variaveis duplas
+  var n1 = 50;
+  var n2 = 60;
+  var n3 = 0;
+  var n4 = 30;
+  var media = (n1 + n2 + n3 + n4) / 4;
+  var nome = 'cleverson';
+  
+    if(media >= 60){
+      print( nome + ' aprovaido parabeis🤓🧑‍🦼🦽');
+    }
+  else if(media >= 40 && media <= 59){
+     print('recuperao seu burro😱');
+  }
+    
+  else{
+    print('estudar mais, muito ruin😩');
+  }*/
+     
+  
+  /*
+  //variavel doulbe 
+  double salario = 3.5;
+  var aumento = 1;
+  var novosalario = (salario + aumento) /100;
+  var salarioreajuste = (salario + novosalario);
+  print('o Salario do estagiario proletario é $salario');
+    print('o aumento foi de $novosalario');
+    print(' o novo salario é $salarioreajuste');*/
+ 
+  /*
+  //variaveis inteiro
+  int num1 = 10;
+  int num2 = 5;
+  int num3 = 2;
+  var soma = (num1 + num2)/num3;
+  print('A soma é  $soma');
+  */
+  
+  //varivaveis tipo sintrg
+  /*
+  var nome = 'Victor';
+  
+  var sobrenome = 'Hugo';
+  
+ print('O nome completo é $nome $sobrenome');*/}
